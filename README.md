@@ -1,4 +1,8 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Atharv Chaudhary     </h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Atharv%20Chaudhary%20%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22I%20build%20to%20understand%22;%22%20I%20hack%20to%20improve.%22" alt="Typing introduction" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AtharvTechDev">
@@ -14,17 +18,6 @@
 - 🚀 Always learning, experimenting, and creating
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvTechDev&show_icons=true&theme=cobalt&hide_border=true&count_private=true&cache_seconds=86400" alt="AtharvTechDev's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=AtharvTechDev&theme=cobalt&hide_border=true&cache_seconds=86400" alt="AtharvTechDev's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvTechDev&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Atharv Chaudhary     's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvTechDev&theme=cobalt&radius=10" alt="AtharvTechDev's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -48,14 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvTechDev&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
-## 💬 Quote
-> "I build to understand";" I hack to improve."
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-
 
