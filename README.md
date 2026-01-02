@@ -1,8 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Atharv%20Chaudhary&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22I%20build%20to%20understand%22;%22%20I%20hack%20to%20improve.%22" alt="Typing introduction" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Atharv Chaudhary     </h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=AtharvTechDev">
@@ -10,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 Experienced in multiple programming technologies
@@ -24,7 +20,7 @@
   <img src="https://streak-stats.demolab.com/?user=AtharvTechDev&theme=cobalt&hide_border=true&cache_seconds=86400" alt="AtharvTechDev's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtharvTechDev&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Atharv Chaudhary's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AtharvTechDev&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Atharv Chaudhary     's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvTechDev&theme=cobalt&radius=10" alt="AtharvTechDev's Activity Graph" />
@@ -52,14 +48,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvTechDev&layout=compact&theme=cobalt&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+## 💬 Quote
+> "I build to understand";" I hack to improve."
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
 
 
